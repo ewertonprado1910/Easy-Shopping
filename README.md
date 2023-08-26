@@ -10,3 +10,6 @@
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/ewertonprado1910/Easy-Shopping/0a97294d2ddc149044a6a29dac9a990e1448fd7e/assets/Easy.png">
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/ewertonprado1910/Easy-Shopping/0a97294d2ddc149044a6a29dac9a990e1448fd7e/assets/Easy%202.png">
